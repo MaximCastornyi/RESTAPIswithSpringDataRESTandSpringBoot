@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;spring-datarest-demo/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;spring-datajpa-demo&apos;&#x0D;&#x0A;- Destination element: &apos;spring-datarest-demo/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     spring-datajpa-demo/src/main/java/com.example.repository&#x0D;&#x0A;     spring-datajpa-demo/src/main/java/com.example.entity" description="Copy packages" destination="=spring-datarest-demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.repository" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.entity" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1649672592742" version="1.0"/>
+</session>
